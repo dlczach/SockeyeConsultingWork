@@ -1,0 +1,8 @@
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\bin\Debug\1.WarmUp.Easy.exe.config
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\bin\Debug\1.WarmUp.Easy.exe
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\bin\Debug\1.WarmUp.Easy.pdb
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\obj\Debug\1.DoThisFirst.csproj.AssemblyReference.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\obj\Debug\1.DoThisFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\obj\Debug\1.DoThisFirst.csproj.CoreCompileInputs.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\obj\Debug\1.WarmUp.Easy.exe
+C:\Users\dlcza\Desktop\candidate-homework-main\1.DoThisFirst\obj\Debug\1.WarmUp.Easy.pdb

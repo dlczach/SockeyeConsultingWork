@@ -1,0 +1,15 @@
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\bin\Debug\net7.0\2.ThenDoThis.exe
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\bin\Debug\net7.0\2.ThenDoThis.deps.json
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\bin\Debug\net7.0\2.ThenDoThis.runtimeconfig.json
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\bin\Debug\net7.0\2.ThenDoThis.dll
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\bin\Debug\net7.0\2.ThenDoThis.pdb
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.csproj.AssemblyReference.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.AssemblyInfoInputs.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.AssemblyInfo.cs
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.csproj.CoreCompileInputs.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.dll
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\refint\2.ThenDoThis.dll
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.pdb
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\2.ThenDoThis.genruntimeconfig.cache
+C:\Users\dlcza\Desktop\candidate-homework-main\2.ThenDoThis\obj\Debug\net7.0\ref\2.ThenDoThis.dll

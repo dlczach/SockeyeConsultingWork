@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7W1bi/e2/iRB5ZCYogJhHqxgPgcnbccng0XKGoxoPt+/RH76W98du5Trv/p4ht9ETwttn4RPfss6Qfv2FpjYMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dlcza\\Desktop\\candidate-homework-main\\2.ThenDoThis\\2.ThenDoThis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dlcza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dlcza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dlcza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dlcza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
